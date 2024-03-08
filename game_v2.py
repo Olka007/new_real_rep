@@ -1,4 +1,5 @@
-import numpy as np 
+# комментарий добавляю для проверки синхронизации с github
+import numpy as np
 def random_predict(number: int=1) -> int:
     """рандомно угадываем число
 
